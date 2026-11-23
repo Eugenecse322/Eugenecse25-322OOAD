@@ -1,6 +1,0 @@
-out/
-*.class
-lib/javafx/
-bankdata*.mv.db
-bankdata*.trace.db
-bankdata*.lock.db
